@@ -1,1 +1,1 @@
-# My Exam for JS Back-End SoftUni Course
+# My Solution for JS Back-End SoftUni Exam
